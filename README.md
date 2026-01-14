@@ -67,3 +67,7 @@ The frontend application will open in the browser.
 - Real-time chat functionality
 - Client-server communication
 - Simple and clean user interface
+## output:
+![Image](https://github.com/user-attachments/assets/609cfa36-9ab9-4afd-9663-f4342446f189)
+![Image](https://github.com/user-attachments/assets/0dac0bd2-831d-449e-b79d-ab5eda09acba)
+![Image](https://github.com/user-attachments/assets/b547f2bf-9cf9-46be-9f5c-57dbea65ab45)
